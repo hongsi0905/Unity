@@ -357,6 +357,8 @@
 "Assets/Kawaii Slime/Scripts/AI/EnemyAi.cs"
 "Assets/Kawaii Slime/Scripts/AI/Face.cs"
 "Assets/Kawaii Slime/Scripts/GameManager.cs"
+"Assets/Paticle/Sript/ParticleManager.cs"
+"Assets/Polymorphism/Script/Animal.cs"
 -langversion:9.0
 
 /deterministic

@@ -38,7 +38,7 @@ public class Memory : Monster
         health = 100;
         attack = 100;
         Information();
-        Move();
+        //Move();
 
         int value = 250;
         value = 100;
@@ -47,19 +47,22 @@ public class Memory : Monster
 
     private void Update()
     {
-
+        /*
         Move();
         //Calculator(5,2);
         print(add(10, 10));
+        */
     }
 
 
-    void Move() //옵젝을 이동시키는 함수 
+    /*
+     void Move() //옵젝을 이동시키는 함수 
     {
         //+= 값을 더하면서 누적해 나간다.
                 
         transform.position += new Vector3(1, 1, 0) * Time.deltaTime;
     }
+    */
 
     private void Calculator(int x, int y)
     {
